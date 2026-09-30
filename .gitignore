@@ -1,0 +1,5 @@
+.vscode
+.venv/
+chroma_db_boe_completo/
+.env
+testing.ipynb

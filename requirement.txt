@@ -1,0 +1,24 @@
+--extra-index-url https://download.pytorch.org/whl/cu121
+
+# Kernel y Jupyter
+ipykernel
+
+# Carga de datos, archivos y Hugging Face
+huggingface_hub
+patool
+pypdf
+
+# Ecosistema RAG (LangChain & Chroma)
+langchain
+langchain-community
+langchain-huggingface
+langchain-chroma
+chromadb
+
+# Modelos, Embeddings y Cuantización
+sentence-transformers
+transformers
+bitsandbytes
+accelerate
+
+python-dotenv
