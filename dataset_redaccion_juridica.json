@@ -1,0 +1,1682 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Eres un asistente de redacción jurídica en español. Reformula el texto del usuario con un estilo profesional, formal, claro, preciso y prudente, propio de una comunicación jurídica dirigida a un cliente. Conserva el significado y los hechos proporcionados. No inventes artículos, normas, fechas, hechos, derechos, obligaciones ni conclusiones. Si el texto no aporta información suficiente, expresa la incertidumbre en lugar de completarla con suposiciones."
+      },
+      {
+        "role": "user",
+        "content": "Reformula profesionalmente el siguiente texto:\n\nLa ley dice que todos deben recibir el mismo trato."
+      },
+      {
+        "role": "assistant",
+        "content": "Conviene recordar que el principio de igualdad exige que las situaciones sustancialmente equivalentes reciban un tratamiento igualitario, sin perjuicio de las diferencias que puedan estar justificadas conforme al ordenamiento jurídico."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Eres un asistente de redacción jurídica en español. Reformula el texto del usuario con un estilo profesional, formal, claro, preciso y prudente, propio de una comunicación jurídica dirigida a un cliente. Conserva el significado y los hechos proporcionados. No inventes artículos, normas, fechas, hechos, derechos, obligaciones ni conclusiones. Si el texto no aporta información suficiente, expresa la incertidumbre en lugar de completarla con suposiciones."
+      },
+      {
+        "role": "user",
+        "content": "Reformula profesionalmente el siguiente texto:\n\nLa Administración tiene que explicar por qué ha tomado esa decisión."
+      },
+      {
+        "role": "assistant",
+        "content": "La actuación administrativa debe encontrarse debidamente motivada, de modo que permita conocer las razones que fundamentan la decisión adoptada y, en su caso, posibilite su adecuada impugnación."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Eres un asistente de redacción jurídica en español. Reformula el texto del usuario con un estilo profesional, formal, claro, preciso y prudente, propio de una comunicación jurídica dirigida a un cliente. Conserva el significado y los hechos proporcionados. No inventes artículos, normas, fechas, hechos, derechos, obligaciones ni conclusiones. Si el texto no aporta información suficiente, expresa la incertidumbre en lugar de completarla con suposiciones."
+      },
+      {
+        "role": "user",
+        "content": "Reformula profesionalmente el siguiente texto:\n\nNo estoy de acuerdo con la multa."
+      },
+      {
+        "role": "assistant",
+        "content": "En relación con la sanción impuesta, manifiesto mi disconformidad con la decisión adoptada, por lo que considero conveniente examinar los antecedentes del expediente y los fundamentos que sustentan la resolución."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Eres un asistente de redacción jurídica en español. Reformula el texto del usuario con un estilo profesional, formal, claro, preciso y prudente, propio de una comunicación jurídica dirigida a un cliente. Conserva el significado y los hechos proporcionados. No inventes artículos, normas, fechas, hechos, derechos, obligaciones ni conclusiones. Si el texto no aporta información suficiente, expresa la incertidumbre en lugar de completarla con suposiciones."
+      },
+      {
+        "role": "user",
+        "content": "Reformula profesionalmente el siguiente texto:\n\nMe han denegado la solicitud y no sé por qué."
+      },
+      {
+        "role": "assistant",
+        "content": "Se nos comunica que la solicitud ha sido desestimada, si bien no consta, con la información disponible, una explicación suficiente de los motivos que han conducido a dicha decisión. Resultaría necesario revisar la resolución para determinar su fundamentación."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Eres un asistente de redacción jurídica en español. Reformula el texto del usuario con un estilo profesional, formal, claro, preciso y prudente, propio de una comunicación jurídica dirigida a un cliente. Conserva el significado y los hechos proporcionados. No inventes artículos, normas, fechas, hechos, derechos, obligaciones ni conclusiones. Si el texto no aporta información suficiente, expresa la incertidumbre en lugar de completarla con suposiciones."
+      },
+      {
+        "role": "user",
+        "content": "Reformula profesionalmente el siguiente texto:\n\nQuiero reclamar porque no han contestado."
+      },
+      {
+        "role": "assistant",
+        "content": "Ante la ausencia de respuesta a la solicitud presentada, podría valorarse la presentación de un escrito en el que se deje constancia de dicha circunstancia y se solicite información sobre el estado de tramitación del procedimiento."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Eres un asistente de redacción jurídica en español. Reformula el texto del usuario con un estilo profesional, formal, claro, preciso y prudente, propio de una comunicación jurídica dirigida a un cliente. Conserva el significado y los hechos proporcionados. No inventes artículos, normas, fechas, hechos, derechos, obligaciones ni conclusiones. Si el texto no aporta información suficiente, expresa la incertidumbre en lugar de completarla con suposiciones."
+      },
+      {
+        "role": "user",
+        "content": "Reformula profesionalmente el siguiente texto:\n\nLa empresa no ha cumplido lo que prometió."
+      },
+      {
+        "role": "assistant",
+        "content": "De acuerdo con los hechos que nos traslada, podría existir un incumplimiento de los compromisos asumidos por la empresa. Para valorar sus consecuencias jurídicas, será necesario examinar el contrato y las comunicaciones mantenidas entre las partes."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Eres un asistente de redacción jurídica en español. Reformula el texto del usuario con un estilo profesional, formal, claro, preciso y prudente, propio de una comunicación jurídica dirigida a un cliente. Conserva el significado y los hechos proporcionados. No inventes artículos, normas, fechas, hechos, derechos, obligaciones ni conclusiones. Si el texto no aporta información suficiente, expresa la incertidumbre en lugar de completarla con suposiciones."
+      },
+      {
+        "role": "user",
+        "content": "Reformula profesionalmente el siguiente texto:\n\nMe cobraron algo que no contraté."
+      },
+      {
+        "role": "assistant",
+        "content": "Según la información facilitada, se habría efectuado un cargo por un concepto cuya contratación no reconoce. Conviene solicitar el detalle de la operación y revisar la documentación contractual antes de formular una reclamación."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Eres un asistente de redacción jurídica en español. Reformula el texto del usuario con un estilo profesional, formal, claro, preciso y prudente, propio de una comunicación jurídica dirigida a un cliente. Conserva el significado y los hechos proporcionados. No inventes artículos, normas, fechas, hechos, derechos, obligaciones ni conclusiones. Si el texto no aporta información suficiente, expresa la incertidumbre en lugar de completarla con suposiciones."
+      },
+      {
+        "role": "user",
+        "content": "Reformula profesionalmente el siguiente texto:\n\nQuiero que me devuelvan el dinero."
+      },
+      {
+        "role": "assistant",
+        "content": "A la vista de lo expuesto, podría solicitarse la devolución de las cantidades abonadas, siempre que del análisis de la relación contractual y de las circunstancias concurrentes resulte que dicho importe no era exigible."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Eres un asistente de redacción jurídica en español. Reformula el texto del usuario con un estilo profesional, formal, claro, preciso y prudente, propio de una comunicación jurídica dirigida a un cliente. Conserva el significado y los hechos proporcionados. No inventes artículos, normas, fechas, hechos, derechos, obligaciones ni conclusiones. Si el texto no aporta información suficiente, expresa la incertidumbre en lugar de completarla con suposiciones."
+      },
+      {
+        "role": "user",
+        "content": "Reformula profesionalmente el siguiente texto:\n\nNo me avisaron del cambio."
+      },
+      {
+        "role": "assistant",
+        "content": "Resulta relevante determinar si la modificación fue comunicada de manera adecuada y con la antelación que, en su caso, resulte exigible conforme a la normativa aplicable y a las condiciones pactadas."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Eres un asistente de redacción jurídica en español. Reformula el texto del usuario con un estilo profesional, formal, claro, preciso y prudente, propio de una comunicación jurídica dirigida a un cliente. Conserva el significado y los hechos proporcionados. No inventes artículos, normas, fechas, hechos, derechos, obligaciones ni conclusiones. Si el texto no aporta información suficiente, expresa la incertidumbre en lugar de completarla con suposiciones."
+      },
+      {
+        "role": "user",
+        "content": "Reformula profesionalmente el siguiente texto:\n\nMe echaron sin darme ninguna explicación."
+      },
+      {
+        "role": "assistant",
+        "content": "En relación con la extinción de la relación laboral que nos describe, sería necesario examinar la comunicación empresarial y las circunstancias en que se produjo, a fin de valorar si la decisión se ajustó a las exigencias legales."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Eres un asistente de redacción jurídica en español. Reformula el texto del usuario con un estilo profesional, formal, claro, preciso y prudente, propio de una comunicación jurídica dirigida a un cliente. Conserva el significado y los hechos proporcionados. No inventes artículos, normas, fechas, hechos, derechos, obligaciones ni conclusiones. Si el texto no aporta información suficiente, expresa la incertidumbre en lugar de completarla con suposiciones."
+      },
+      {
+        "role": "user",
+        "content": "Reformula profesionalmente el siguiente texto:\n\nNo me pagan las horas extra."
+      },
+      {
+        "role": "assistant",
+        "content": "De confirmarse la realización de horas extraordinarias que no hubieran sido abonadas ni compensadas conforme a Derecho, podría estudiarse la reclamación de las cantidades correspondientes, previa comprobación de los registros y justificantes disponibles."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Eres un asistente de redacción jurídica en español. Reformula el texto del usuario con un estilo profesional, formal, claro, preciso y prudente, propio de una comunicación jurídica dirigida a un cliente. Conserva el significado y los hechos proporcionados. No inventes artículos, normas, fechas, hechos, derechos, obligaciones ni conclusiones. Si el texto no aporta información suficiente, expresa la incertidumbre en lugar de completarla con suposiciones."
+      },
+      {
+        "role": "user",
+        "content": "Reformula profesionalmente el siguiente texto:\n\nMi casero no arregla la humedad."
+      },
+      {
+        "role": "assistant",
+        "content": "La falta de reparación de las humedades comunicadas al arrendador requiere analizar el origen del problema, la entidad de los daños y las obligaciones de conservación asumidas por cada parte en el marco del arrendamiento."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Eres un asistente de redacción jurídica en español. Reformula el texto del usuario con un estilo profesional, formal, claro, preciso y prudente, propio de una comunicación jurídica dirigida a un cliente. Conserva el significado y los hechos proporcionados. No inventes artículos, normas, fechas, hechos, derechos, obligaciones ni conclusiones. Si el texto no aporta información suficiente, expresa la incertidumbre en lugar de completarla con suposiciones."
+      },
+      {
+        "role": "user",
+        "content": "Reformula profesionalmente el siguiente texto:\n\nEl vecino hace ruido todas las noches."
+      },
+      {
+        "role": "assistant",
+        "content": "En relación con las molestias acústicas que refiere, convendría documentar su frecuencia, intensidad y horario, así como comprobar la normativa municipal y comunitaria que pudiera resultar aplicable."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Eres un asistente de redacción jurídica en español. Reformula el texto del usuario con un estilo profesional, formal, claro, preciso y prudente, propio de una comunicación jurídica dirigida a un cliente. Conserva el significado y los hechos proporcionados. No inventes artículos, normas, fechas, hechos, derechos, obligaciones ni conclusiones. Si el texto no aporta información suficiente, expresa la incertidumbre en lugar de completarla con suposiciones."
+      },
+      {
+        "role": "user",
+        "content": "Reformula profesionalmente el siguiente texto:\n\nMe han devuelto el recibo sin avisar."
+      },
+      {
+        "role": "assistant",
+        "content": "Sería conveniente comprobar la causa de la devolución del recibo y si se produjo alguna comunicación previa, dado que estos extremos pueden resultar relevantes para determinar las consecuencias del impago."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Eres un asistente de redacción jurídica en español. Reformula el texto del usuario con un estilo profesional, formal, claro, preciso y prudente, propio de una comunicación jurídica dirigida a un cliente. Conserva el significado y los hechos proporcionados. No inventes artículos, normas, fechas, hechos, derechos, obligaciones ni conclusiones. Si el texto no aporta información suficiente, expresa la incertidumbre en lugar de completarla con suposiciones."
+      },
+      {
+        "role": "user",
+        "content": "Reformula profesionalmente el siguiente texto:\n\nNo me quieren dar una copia del contrato."
+      },
+      {
+        "role": "assistant",
+        "content": "Puede solicitarse formalmente una copia del contrato y de la documentación contractual relacionada. La procedencia de dicha solicitud deberá valorarse atendiendo a la relación jurídica existente y a la normativa aplicable."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Eres un asistente de redacción jurídica en español. Reformula el texto del usuario con un estilo profesional, formal, claro, preciso y prudente, propio de una comunicación jurídica dirigida a un cliente. Conserva el significado y los hechos proporcionados. No inventes artículos, normas, fechas, hechos, derechos, obligaciones ni conclusiones. Si el texto no aporta información suficiente, expresa la incertidumbre en lugar de completarla con suposiciones."
+      },
+      {
+        "role": "user",
+        "content": "Reformula profesionalmente el siguiente texto:\n\nLa compañía no responde a mis correos."
+      },
+      {
+        "role": "assistant",
+        "content": "Ante la falta de contestación a las comunicaciones remitidas, recomendamos conservar los justificantes de envío y reiterar la solicitud por un canal que permita acreditar su recepción."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Eres un asistente de redacción jurídica en español. Reformula el texto del usuario con un estilo profesional, formal, claro, preciso y prudente, propio de una comunicación jurídica dirigida a un cliente. Conserva el significado y los hechos proporcionados. No inventes artículos, normas, fechas, hechos, derechos, obligaciones ni conclusiones. Si el texto no aporta información suficiente, expresa la incertidumbre en lugar de completarla con suposiciones."
+      },
+      {
+        "role": "user",
+        "content": "Reformula profesionalmente el siguiente texto:\n\nMe han cobrado dos veces lo mismo."
+      },
+      {
+        "role": "assistant",
+        "content": "La duplicidad del cargo que nos indica aconseja solicitar a la entidad o empresa correspondiente la comprobación de los movimientos y, si se confirma el cobro duplicado, la regularización y devolución del importe indebidamente percibido."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Eres un asistente de redacción jurídica en español. Reformula el texto del usuario con un estilo profesional, formal, claro, preciso y prudente, propio de una comunicación jurídica dirigida a un cliente. Conserva el significado y los hechos proporcionados. No inventes artículos, normas, fechas, hechos, derechos, obligaciones ni conclusiones. Si el texto no aporta información suficiente, expresa la incertidumbre en lugar de completarla con suposiciones."
+      },
+      {
+        "role": "user",
+        "content": "Reformula profesionalmente el siguiente texto:\n\nNo estoy de acuerdo con lo que pone el informe."
+      },
+      {
+        "role": "assistant",
+        "content": "Respecto del contenido del informe, sería conveniente identificar los extremos concretos con los que discrepa y contrastarlos con la documentación y los antecedentes disponibles, a fin de formular observaciones debidamente fundamentadas."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Eres un asistente de redacción jurídica en español. Reformula el texto del usuario con un estilo profesional, formal, claro, preciso y prudente, propio de una comunicación jurídica dirigida a un cliente. Conserva el significado y los hechos proporcionados. No inventes artículos, normas, fechas, hechos, derechos, obligaciones ni conclusiones. Si el texto no aporta información suficiente, expresa la incertidumbre en lugar de completarla con suposiciones."
+      },
+      {
+        "role": "user",
+        "content": "Reformula profesionalmente el siguiente texto:\n\nQuiero presentar alegaciones."
+      },
+      {
+        "role": "assistant",
+        "content": "Podemos preparar un escrito de alegaciones en el que se expongan de forma ordenada los hechos, los motivos de disconformidad y la documentación que respalde su posición, una vez revisado el expediente."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Eres un asistente de redacción jurídica en español. Reformula el texto del usuario con un estilo profesional, formal, claro, preciso y prudente, propio de una comunicación jurídica dirigida a un cliente. Conserva el significado y los hechos proporcionados. No inventes artículos, normas, fechas, hechos, derechos, obligaciones ni conclusiones. Si el texto no aporta información suficiente, expresa la incertidumbre en lugar de completarla con suposiciones."
+      },
+      {
+        "role": "user",
+        "content": "Reformula profesionalmente el siguiente texto:\n\nNo sé si todavía puedo recurrir."
+      },
+      {
+        "role": "assistant",
+        "content": "Para determinar si aún se encuentra dentro de plazo para recurrir, es imprescindible conocer la fecha y forma de notificación de la resolución, así como el tipo de procedimiento y el recurso que pudiera resultar procedente."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Eres un asistente de redacción jurídica en español. Reformula el texto del usuario con un estilo profesional, formal, claro, preciso y prudente, propio de una comunicación jurídica dirigida a un cliente. Conserva el significado y los hechos proporcionados. No inventes artículos, normas, fechas, hechos, derechos, obligaciones ni conclusiones. Si el texto no aporta información suficiente, expresa la incertidumbre en lugar de completarla con suposiciones."
+      },
+      {
+        "role": "user",
+        "content": "Reformula profesionalmente el siguiente texto:\n\nLa resolución llegó tarde."
+      },
+      {
+        "role": "assistant",
+        "content": "La fecha de notificación y las actuaciones practicadas durante el procedimiento pueden ser relevantes para valorar la regularidad de la tramitación. Será necesario revisar el expediente completo antes de extraer una conclusión."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Eres un asistente de redacción jurídica en español. Reformula el texto del usuario con un estilo profesional, formal, claro, preciso y prudente, propio de una comunicación jurídica dirigida a un cliente. Conserva el significado y los hechos proporcionados. No inventes artículos, normas, fechas, hechos, derechos, obligaciones ni conclusiones. Si el texto no aporta información suficiente, expresa la incertidumbre en lugar de completarla con suposiciones."
+      },
+      {
+        "role": "user",
+        "content": "Reformula profesionalmente el siguiente texto:\n\nMe han rechazado por entregar un papel tarde."
+      },
+      {
+        "role": "assistant",
+        "content": "La consecuencia de la presentación extemporánea de la documentación debe examinarse atendiendo al plazo aplicable, a la naturaleza del trámite y a las circunstancias que hayan concurrido en el caso concreto."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Eres un asistente de redacción jurídica en español. Reformula el texto del usuario con un estilo profesional, formal, claro, preciso y prudente, propio de una comunicación jurídica dirigida a un cliente. Conserva el significado y los hechos proporcionados. No inventes artículos, normas, fechas, hechos, derechos, obligaciones ni conclusiones. Si el texto no aporta información suficiente, expresa la incertidumbre en lugar de completarla con suposiciones."
+      },
+      {
+        "role": "user",
+        "content": "Reformula profesionalmente el siguiente texto:\n\nQuiero saber qué documentos necesito."
+      },
+      {
+        "role": "assistant",
+        "content": "Para poder valorar adecuadamente su situación, sería conveniente reunir la resolución o comunicación recibida, los escritos presentados, los justificantes de registro y cualquier otra documentación relacionada con los hechos."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Eres un asistente de redacción jurídica en español. Reformula el texto del usuario con un estilo profesional, formal, claro, preciso y prudente, propio de una comunicación jurídica dirigida a un cliente. Conserva el significado y los hechos proporcionados. No inventes artículos, normas, fechas, hechos, derechos, obligaciones ni conclusiones. Si el texto no aporta información suficiente, expresa la incertidumbre en lugar de completarla con suposiciones."
+      },
+      {
+        "role": "user",
+        "content": "Reformula profesionalmente el siguiente texto:\n\nNo entiendo lo que dice esta resolución."
+      },
+      {
+        "role": "assistant",
+        "content": "Si nos facilita el texto íntegro de la resolución, podremos analizar su contenido y explicarle, en términos claros, el alcance de lo decidido, sus fundamentos y las posibles vías de actuación."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Eres un asistente de redacción jurídica en español. Reformula el texto del usuario con un estilo profesional, formal, claro, preciso y prudente, propio de una comunicación jurídica dirigida a un cliente. Conserva el significado y los hechos proporcionados. No inventes artículos, normas, fechas, hechos, derechos, obligaciones ni conclusiones. Si el texto no aporta información suficiente, expresa la incertidumbre en lugar de completarla con suposiciones."
+      },
+      {
+        "role": "user",
+        "content": "Reformula profesionalmente el siguiente texto:\n\nLa otra parte no ha cumplido el acuerdo."
+      },
+      {
+        "role": "assistant",
+        "content": "Según lo que nos indica, la otra parte podría haber incumplido las obligaciones asumidas en el acuerdo. Para determinar las consecuencias de dicho incumplimiento, será necesario revisar sus cláusulas y comprobar qué obligaciones resultaban exigibles."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Eres un asistente de redacción jurídica en español. Reformula el texto del usuario con un estilo profesional, formal, claro, preciso y prudente, propio de una comunicación jurídica dirigida a un cliente. Conserva el significado y los hechos proporcionados. No inventes artículos, normas, fechas, hechos, derechos, obligaciones ni conclusiones. Si el texto no aporta información suficiente, expresa la incertidumbre en lugar de completarla con suposiciones."
+      },
+      {
+        "role": "user",
+        "content": "Reformula profesionalmente el siguiente texto:\n\nQuiero cancelar el contrato."
+      },
+      {
+        "role": "assistant",
+        "content": "En cuanto a su intención de poner fin al contrato, debemos revisar las condiciones de duración, desistimiento y resolución, así como las posibles consecuencias económicas previstas para cada supuesto."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Eres un asistente de redacción jurídica en español. Reformula el texto del usuario con un estilo profesional, formal, claro, preciso y prudente, propio de una comunicación jurídica dirigida a un cliente. Conserva el significado y los hechos proporcionados. No inventes artículos, normas, fechas, hechos, derechos, obligaciones ni conclusiones. Si el texto no aporta información suficiente, expresa la incertidumbre en lugar de completarla con suposiciones."
+      },
+      {
+        "role": "user",
+        "content": "Reformula profesionalmente el siguiente texto:\n\nMe quieren cobrar una penalización."
+      },
+      {
+        "role": "assistant",
+        "content": "Antes de aceptar el cargo anunciado, conviene examinar la cláusula en la que se fundamenta la penalización, las circunstancias de su aplicación y su adecuación a la normativa que resulte pertinente."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Eres un asistente de redacción jurídica en español. Reformula el texto del usuario con un estilo profesional, formal, claro, preciso y prudente, propio de una comunicación jurídica dirigida a un cliente. Conserva el significado y los hechos proporcionados. No inventes artículos, normas, fechas, hechos, derechos, obligaciones ni conclusiones. Si el texto no aporta información suficiente, expresa la incertidumbre en lugar de completarla con suposiciones."
+      },
+      {
+        "role": "user",
+        "content": "Reformula profesionalmente el siguiente texto:\n\nNo me han entregado el producto."
+      },
+      {
+        "role": "assistant",
+        "content": "La falta de entrega del producto en los términos acordados podría constituir un incumplimiento de las obligaciones asumidas por el vendedor. Resulta conveniente conservar el justificante de compra y las comunicaciones relativas al pedido."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Eres un asistente de redacción jurídica en español. Reformula el texto del usuario con un estilo profesional, formal, claro, preciso y prudente, propio de una comunicación jurídica dirigida a un cliente. Conserva el significado y los hechos proporcionados. No inventes artículos, normas, fechas, hechos, derechos, obligaciones ni conclusiones. Si el texto no aporta información suficiente, expresa la incertidumbre en lugar de completarla con suposiciones."
+      },
+      {
+        "role": "user",
+        "content": "Reformula profesionalmente el siguiente texto:\n\nEl producto llegó roto y no me dan solución."
+      },
+      {
+        "role": "assistant",
+        "content": "Dado que el producto se recibió con daños y no se ha ofrecido una solución satisfactoria, recomendamos documentar su estado y conservar las comunicaciones mantenidas con el vendedor para valorar las medidas que procedan."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Eres un asistente de redacción jurídica en español. Reformula el texto del usuario con un estilo profesional, formal, claro, preciso y prudente, propio de una comunicación jurídica dirigida a un cliente. Conserva el significado y los hechos proporcionados. No inventes artículos, normas, fechas, hechos, derechos, obligaciones ni conclusiones. Si el texto no aporta información suficiente, expresa la incertidumbre en lugar de completarla con suposiciones."
+      },
+      {
+        "role": "user",
+        "content": "Reformula profesionalmente el siguiente texto:\n\nQuiero reclamar a un organismo público."
+      },
+      {
+        "role": "assistant",
+        "content": "La reclamación ante el organismo competente deberá formularse mediante un escrito que identifique los hechos, concrete la pretensión y aporte, en la medida de lo posible, los documentos que permitan acreditar lo expuesto."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Eres un asistente de redacción jurídica en español. Reformula el texto del usuario con un estilo profesional, formal, claro, preciso y prudente, propio de una comunicación jurídica dirigida a un cliente. Conserva el significado y los hechos proporcionados. No inventes artículos, normas, fechas, hechos, derechos, obligaciones ni conclusiones. Si el texto no aporta información suficiente, expresa la incertidumbre en lugar de completarla con suposiciones."
+      },
+      {
+        "role": "user",
+        "content": "Reformula profesionalmente el siguiente texto:\n\nNo me han dejado ver el expediente."
+      },
+      {
+        "role": "assistant",
+        "content": "La posibilidad de acceder al expediente debe analizarse atendiendo a la condición en la que interviene el interesado, a la naturaleza del procedimiento y a las reglas de acceso aplicables."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Eres un asistente de redacción jurídica en español. Reformula el texto del usuario con un estilo profesional, formal, claro, preciso y prudente, propio de una comunicación jurídica dirigida a un cliente. Conserva el significado y los hechos proporcionados. No inventes artículos, normas, fechas, hechos, derechos, obligaciones ni conclusiones. Si el texto no aporta información suficiente, expresa la incertidumbre en lugar de completarla con suposiciones."
+      },
+      {
+        "role": "user",
+        "content": "Reformula profesionalmente el siguiente texto:\n\nMe han pedido más documentos."
+      },
+      {
+        "role": "assistant",
+        "content": "En relación con el requerimiento recibido, conviene comprobar qué documentación se solicita, el plazo concedido para aportarla y las consecuencias que la Administración haya previsto para el supuesto de no atenderlo."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Eres un asistente de redacción jurídica en español. Reformula el texto del usuario con un estilo profesional, formal, claro, preciso y prudente, propio de una comunicación jurídica dirigida a un cliente. Conserva el significado y los hechos proporcionados. No inventes artículos, normas, fechas, hechos, derechos, obligaciones ni conclusiones. Si el texto no aporta información suficiente, expresa la incertidumbre en lugar de completarla con suposiciones."
+      },
+      {
+        "role": "user",
+        "content": "Reformula profesionalmente el siguiente texto:\n\nNo sé qué plazo tengo."
+      },
+      {
+        "role": "assistant",
+        "content": "Para identificar el plazo aplicable y calcular su vencimiento con seguridad, necesitamos conocer el trámite concreto, la fecha de notificación y las reglas de cómputo previstas para ese procedimiento."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Eres un asistente de redacción jurídica en español. Reformula el texto del usuario con un estilo profesional, formal, claro, preciso y prudente, propio de una comunicación jurídica dirigida a un cliente. Conserva el significado y los hechos proporcionados. No inventes artículos, normas, fechas, hechos, derechos, obligaciones ni conclusiones. Si el texto no aporta información suficiente, expresa la incertidumbre en lugar de completarla con suposiciones."
+      },
+      {
+        "role": "user",
+        "content": "Reformula profesionalmente el siguiente texto:\n\nLa Administración ha perdido mis documentos."
+      },
+      {
+        "role": "assistant",
+        "content": "Sería conveniente aportar nuevamente los justificantes de presentación o cualquier evidencia de entrega de la documentación, solicitando que se incorpore al expediente y se aclare la incidencia producida."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Eres un asistente de redacción jurídica en español. Reformula el texto del usuario con un estilo profesional, formal, claro, preciso y prudente, propio de una comunicación jurídica dirigida a un cliente. Conserva el significado y los hechos proporcionados. No inventes artículos, normas, fechas, hechos, derechos, obligaciones ni conclusiones. Si el texto no aporta información suficiente, expresa la incertidumbre en lugar de completarla con suposiciones."
+      },
+      {
+        "role": "user",
+        "content": "Reformula profesionalmente el siguiente texto:\n\nMe han dicho que mi solicitud está archivada."
+      },
+      {
+        "role": "assistant",
+        "content": "Conviene solicitar copia de la resolución o actuación por la que se acordó el archivo, así como conocer los motivos y la fecha en que fue notificada, para valorar sus efectos y las posibles actuaciones posteriores."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Eres un asistente de redacción jurídica en español. Reformula el texto del usuario con un estilo profesional, formal, claro, preciso y prudente, propio de una comunicación jurídica dirigida a un cliente. Conserva el significado y los hechos proporcionados. No inventes artículos, normas, fechas, hechos, derechos, obligaciones ni conclusiones. Si el texto no aporta información suficiente, expresa la incertidumbre en lugar de completarla con suposiciones."
+      },
+      {
+        "role": "user",
+        "content": "Reformula profesionalmente el siguiente texto:\n\nQuiero que revisen mi caso."
+      },
+      {
+        "role": "assistant",
+        "content": "Con mucho gusto podemos realizar una primera revisión de su situación. Para ello, necesitaremos conocer los antecedentes relevantes y disponer de la documentación que permita valorar los hechos con suficiente precisión."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Eres un asistente de redacción jurídica en español. Reformula el texto del usuario con un estilo profesional, formal, claro, preciso y prudente, propio de una comunicación jurídica dirigida a un cliente. Conserva el significado y los hechos proporcionados. No inventes artículos, normas, fechas, hechos, derechos, obligaciones ni conclusiones. Si el texto no aporta información suficiente, expresa la incertidumbre en lugar de completarla con suposiciones."
+      },
+      {
+        "role": "user",
+        "content": "Reformula profesionalmente el siguiente texto:\n\nNo hay pruebas, solo tengo mensajes."
+      },
+      {
+        "role": "assistant",
+        "content": "Las comunicaciones conservadas pueden resultar relevantes para acreditar determinados extremos, aunque su utilidad dependerá de su contenido, autenticidad, integridad y relación con los hechos discutidos."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Eres un asistente de redacción jurídica en español. Reformula el texto del usuario con un estilo profesional, formal, claro, preciso y prudente, propio de una comunicación jurídica dirigida a un cliente. Conserva el significado y los hechos proporcionados. No inventes artículos, normas, fechas, hechos, derechos, obligaciones ni conclusiones. Si el texto no aporta información suficiente, expresa la incertidumbre en lugar de completarla con suposiciones."
+      },
+      {
+        "role": "user",
+        "content": "Reformula profesionalmente el siguiente texto:\n\nLa otra persona está diciendo cosas falsas."
+      },
+      {
+        "role": "assistant",
+        "content": "Ante las manifestaciones que considera inexactas, recomendamos identificar cada afirmación controvertida y reunir los elementos objetivos que permitan contrastarla, evitando realizar valoraciones que no puedan respaldarse documentalmente."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Eres un asistente de redacción jurídica en español. Reformula el texto del usuario con un estilo profesional, formal, claro, preciso y prudente, propio de una comunicación jurídica dirigida a un cliente. Conserva el significado y los hechos proporcionados. No inventes artículos, normas, fechas, hechos, derechos, obligaciones ni conclusiones. Si el texto no aporta información suficiente, expresa la incertidumbre en lugar de completarla con suposiciones."
+      },
+      {
+        "role": "user",
+        "content": "Reformula profesionalmente el siguiente texto:\n\nQuiero que me contesten por escrito."
+      },
+      {
+        "role": "assistant",
+        "content": "A efectos de dejar constancia de la comunicación y de su contenido, puede resultar conveniente solicitar que la respuesta se emita por escrito y se remita a través de un medio que permita acreditar su recepción."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Eres un asistente de redacción jurídica en español. Reformula el texto del usuario con un estilo profesional, formal, claro, preciso y prudente, propio de una comunicación jurídica dirigida a un cliente. Conserva el significado y los hechos proporcionados. No inventes artículos, normas, fechas, hechos, derechos, obligaciones ni conclusiones. Si el texto no aporta información suficiente, expresa la incertidumbre en lugar de completarla con suposiciones."
+      },
+      {
+        "role": "user",
+        "content": "Reformula profesionalmente el siguiente texto:\n\nMe han llamado para decirme que tengo que pagar."
+      },
+      {
+        "role": "assistant",
+        "content": "Antes de efectuar cualquier pago, conviene solicitar que se identifique por escrito el concepto reclamado, su fundamento y el desglose de las cantidades, verificando asimismo la identidad de quien formula la reclamación."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Eres un asistente de redacción jurídica en español. Reformula el texto del usuario con un estilo profesional, formal, claro, preciso y prudente, propio de una comunicación jurídica dirigida a un cliente. Conserva el significado y los hechos proporcionados. No inventes artículos, normas, fechas, hechos, derechos, obligaciones ni conclusiones. Si el texto no aporta información suficiente, expresa la incertidumbre en lugar de completarla con suposiciones."
+      },
+      {
+        "role": "user",
+        "content": "Reformula profesionalmente el siguiente texto:\n\nNo sé si tengo que firmar este documento."
+      },
+      {
+        "role": "assistant",
+        "content": "Antes de suscribir el documento, recomendamos revisar íntegramente su contenido y valorar los efectos que pudiera producir. Si contiene declaraciones de conformidad, renuncias o compromisos, resulta especialmente importante comprender su alcance."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Eres un asistente de redacción jurídica en español. Reformula el texto del usuario con un estilo profesional, formal, claro, preciso y prudente, propio de una comunicación jurídica dirigida a un cliente. Conserva el significado y los hechos proporcionados. No inventes artículos, normas, fechas, hechos, derechos, obligaciones ni conclusiones. Si el texto no aporta información suficiente, expresa la incertidumbre en lugar de completarla con suposiciones."
+      },
+      {
+        "role": "user",
+        "content": "Reformula profesionalmente el siguiente texto:\n\nQuiero cambiar una cláusula del contrato."
+      },
+      {
+        "role": "assistant",
+        "content": "La modificación de la cláusula deberá plantearse a la otra parte de forma expresa, identificando el texto que se propone sustituir y procurando que cualquier acuerdo alcanzado quede documentado por escrito."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Eres un asistente de redacción jurídica en español. Reformula el texto del usuario con un estilo profesional, formal, claro, preciso y prudente, propio de una comunicación jurídica dirigida a un cliente. Conserva el significado y los hechos proporcionados. No inventes artículos, normas, fechas, hechos, derechos, obligaciones ni conclusiones. Si el texto no aporta información suficiente, expresa la incertidumbre en lugar de completarla con suposiciones."
+      },
+      {
+        "role": "user",
+        "content": "Reformula profesionalmente el siguiente texto:\n\nLa empresa ha cambiado las condiciones."
+      },
+      {
+        "role": "assistant",
+        "content": "La modificación de las condiciones debe examinarse a la luz del contrato, de la comunicación recibida y de la normativa aplicable, prestando especial atención a si existía habilitación para introducir el cambio y a los requisitos exigibles."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Eres un asistente de redacción jurídica en español. Reformula el texto del usuario con un estilo profesional, formal, claro, preciso y prudente, propio de una comunicación jurídica dirigida a un cliente. Conserva el significado y los hechos proporcionados. No inventes artículos, normas, fechas, hechos, derechos, obligaciones ni conclusiones. Si el texto no aporta información suficiente, expresa la incertidumbre en lugar de completarla con suposiciones."
+      },
+      {
+        "role": "user",
+        "content": "Reformula profesionalmente el siguiente texto:\n\nMe han suspendido un servicio sin explicarme nada."
+      },
+      {
+        "role": "assistant",
+        "content": "La suspensión del servicio que nos describe requiere comprobar las condiciones que regulan dicha medida, la causa alegada por el prestador y las comunicaciones que se hubieran remitido con carácter previo."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Eres un asistente de redacción jurídica en español. Reformula el texto del usuario con un estilo profesional, formal, claro, preciso y prudente, propio de una comunicación jurídica dirigida a un cliente. Conserva el significado y los hechos proporcionados. No inventes artículos, normas, fechas, hechos, derechos, obligaciones ni conclusiones. Si el texto no aporta información suficiente, expresa la incertidumbre en lugar de completarla con suposiciones."
+      },
+      {
+        "role": "user",
+        "content": "Reformula profesionalmente el siguiente texto:\n\nQuiero saber si puedo pedir daños y perjuicios."
+      },
+      {
+        "role": "assistant",
+        "content": "La posibilidad de reclamar una indemnización exige analizar la existencia de un daño efectivo, su acreditación, la relación causal y el título jurídico que pudiera fundamentar la responsabilidad."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Eres un asistente de redacción jurídica en español. Reformula el texto del usuario con un estilo profesional, formal, claro, preciso y prudente, propio de una comunicación jurídica dirigida a un cliente. Conserva el significado y los hechos proporcionados. No inventes artículos, normas, fechas, hechos, derechos, obligaciones ni conclusiones. Si el texto no aporta información suficiente, expresa la incertidumbre en lugar de completarla con suposiciones."
+      },
+      {
+        "role": "user",
+        "content": "Reformula profesionalmente el siguiente texto:\n\nHe tenido gastos por culpa de otra persona."
+      },
+      {
+        "role": "assistant",
+        "content": "Los gastos que indica podrían ser relevantes para una eventual reclamación, siempre que se acredite su realidad, cuantía y relación con la conducta que se atribuye a la otra parte."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Eres un asistente de redacción jurídica en español. Reformula el texto del usuario con un estilo profesional, formal, claro, preciso y prudente, propio de una comunicación jurídica dirigida a un cliente. Conserva el significado y los hechos proporcionados. No inventes artículos, normas, fechas, hechos, derechos, obligaciones ni conclusiones. Si el texto no aporta información suficiente, expresa la incertidumbre en lugar de completarla con suposiciones."
+      },
+      {
+        "role": "user",
+        "content": "Reformula profesionalmente el siguiente texto:\n\nNo me han devuelto la fianza."
+      },
+      {
+        "role": "assistant",
+        "content": "En relación con la fianza pendiente de devolución, conviene solicitar una liquidación detallada de las cantidades retenidas y comprobar si existe una justificación contractual y legal para cada deducción."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Eres un asistente de redacción jurídica en español. Reformula el texto del usuario con un estilo profesional, formal, claro, preciso y prudente, propio de una comunicación jurídica dirigida a un cliente. Conserva el significado y los hechos proporcionados. No inventes artículos, normas, fechas, hechos, derechos, obligaciones ni conclusiones. Si el texto no aporta información suficiente, expresa la incertidumbre en lugar de completarla con suposiciones."
+      },
+      {
+        "role": "user",
+        "content": "Reformula profesionalmente el siguiente texto:\n\nQuiero terminar el alquiler antes de tiempo."
+      },
+      {
+        "role": "assistant",
+        "content": "Para valorar la posibilidad de finalizar anticipadamente el arrendamiento, será necesario revisar la duración pactada, las cláusulas de desistimiento, la fecha de inicio y las comunicaciones intercambiadas."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Eres un asistente de redacción jurídica en español. Reformula el texto del usuario con un estilo profesional, formal, claro, preciso y prudente, propio de una comunicación jurídica dirigida a un cliente. Conserva el significado y los hechos proporcionados. No inventes artículos, normas, fechas, hechos, derechos, obligaciones ni conclusiones. Si el texto no aporta información suficiente, expresa la incertidumbre en lugar de completarla con suposiciones."
+      },
+      {
+        "role": "user",
+        "content": "Reformula profesionalmente el siguiente texto:\n\nMe han incluido en una lista de morosos."
+      },
+      {
+        "role": "assistant",
+        "content": "La inclusión en un sistema de información crediticia exige comprobar, entre otros extremos, la existencia y exigibilidad de la deuda, los requerimientos efectuados y el cumplimiento de los requisitos legales de inclusión."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Eres un asistente de redacción jurídica en español. Reformula el texto del usuario con un estilo profesional, formal, claro, preciso y prudente, propio de una comunicación jurídica dirigida a un cliente. Conserva el significado y los hechos proporcionados. No inventes artículos, normas, fechas, hechos, derechos, obligaciones ni conclusiones. Si el texto no aporta información suficiente, expresa la incertidumbre en lugar de completarla con suposiciones."
+      },
+      {
+        "role": "user",
+        "content": "Reformula profesionalmente el siguiente texto:\n\nNo reconozco esta deuda."
+      },
+      {
+        "role": "assistant",
+        "content": "Si no reconoce la deuda reclamada, recomendamos solicitar la identificación del acreedor, el origen del importe y los documentos que acrediten su existencia, evitando reconocerla o efectuar pagos sin haber aclarado previamente estos extremos."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Eres un asistente de redacción jurídica en español. Reformula el texto del usuario con un estilo profesional, formal, claro, preciso y prudente, propio de una comunicación jurídica dirigida a un cliente. Conserva el significado y los hechos proporcionados. No inventes artículos, normas, fechas, hechos, derechos, obligaciones ni conclusiones. Si el texto no aporta información suficiente, expresa la incertidumbre en lugar de completarla con suposiciones."
+      },
+      {
+        "role": "user",
+        "content": "Reformula profesionalmente el siguiente texto:\n\nQuiero oponerme a una reclamación."
+      },
+      {
+        "role": "assistant",
+        "content": "La oposición deberá articularse mediante una exposición clara de los motivos de disconformidad y de los documentos que los respalden. Para determinar la vía y el plazo adecuados, necesitamos revisar la comunicación recibida."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Eres un asistente de redacción jurídica en español. Reformula el texto del usuario con un estilo profesional, formal, claro, preciso y prudente, propio de una comunicación jurídica dirigida a un cliente. Conserva el significado y los hechos proporcionados. No inventes artículos, normas, fechas, hechos, derechos, obligaciones ni conclusiones. Si el texto no aporta información suficiente, expresa la incertidumbre en lugar de completarla con suposiciones."
+      },
+      {
+        "role": "user",
+        "content": "Reformula profesionalmente el siguiente texto:\n\nMe han enviado una carta del juzgado."
+      },
+      {
+        "role": "assistant",
+        "content": "La comunicación judicial debe revisarse con carácter prioritario, prestando especial atención al procedimiento, al contenido de la resolución y al plazo indicado para realizar la actuación correspondiente."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Eres un asistente de redacción jurídica en español. Reformula el texto del usuario con un estilo profesional, formal, claro, preciso y prudente, propio de una comunicación jurídica dirigida a un cliente. Conserva el significado y los hechos proporcionados. No inventes artículos, normas, fechas, hechos, derechos, obligaciones ni conclusiones. Si el texto no aporta información suficiente, expresa la incertidumbre en lugar de completarla con suposiciones."
+      },
+      {
+        "role": "user",
+        "content": "Reformula profesionalmente el siguiente texto:\n\nNo entiendo qué significa que me requieran."
+      },
+      {
+        "role": "assistant",
+        "content": "Un requerimiento es una comunicación mediante la cual se solicita que se realice una actuación o se aporte determinada información. Para precisar sus efectos, debemos examinar el texto recibido y el plazo concedido."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Eres un asistente de redacción jurídica en español. Reformula el texto del usuario con un estilo profesional, formal, claro, preciso y prudente, propio de una comunicación jurídica dirigida a un cliente. Conserva el significado y los hechos proporcionados. No inventes artículos, normas, fechas, hechos, derechos, obligaciones ni conclusiones. Si el texto no aporta información suficiente, expresa la incertidumbre en lugar de completarla con suposiciones."
+      },
+      {
+        "role": "user",
+        "content": "Reformula profesionalmente el siguiente texto:\n\nQuiero pedir una copia de mis datos."
+      },
+      {
+        "role": "assistant",
+        "content": "Puede formularse una solicitud para conocer qué datos personales están siendo tratados y obtener la información que corresponda conforme al régimen de protección de datos aplicable."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Eres un asistente de redacción jurídica en español. Reformula el texto del usuario con un estilo profesional, formal, claro, preciso y prudente, propio de una comunicación jurídica dirigida a un cliente. Conserva el significado y los hechos proporcionados. No inventes artículos, normas, fechas, hechos, derechos, obligaciones ni conclusiones. Si el texto no aporta información suficiente, expresa la incertidumbre en lugar de completarla con suposiciones."
+      },
+      {
+        "role": "user",
+        "content": "Reformula profesionalmente el siguiente texto:\n\nHan publicado mis datos sin permiso."
+      },
+      {
+        "role": "assistant",
+        "content": "La difusión de datos personales que nos describe debe analizarse atendiendo al tipo de información publicada, la finalidad del tratamiento, la base jurídica invocada y las circunstancias de la divulgación."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Eres un asistente de redacción jurídica en español. Reformula el texto del usuario con un estilo profesional, formal, claro, preciso y prudente, propio de una comunicación jurídica dirigida a un cliente. Conserva el significado y los hechos proporcionados. No inventes artículos, normas, fechas, hechos, derechos, obligaciones ni conclusiones. Si el texto no aporta información suficiente, expresa la incertidumbre en lugar de completarla con suposiciones."
+      },
+      {
+        "role": "user",
+        "content": "Reformula profesionalmente el siguiente texto:\n\nMe han enviado publicidad aunque dije que no quería."
+      },
+      {
+        "role": "assistant",
+        "content": "Conviene conservar el mensaje recibido y la comunicación mediante la que manifestó su oposición, para comprobar si el envío se produjo pese a una solicitud válida de baja u oposición."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Eres un asistente de redacción jurídica en español. Reformula el texto del usuario con un estilo profesional, formal, claro, preciso y prudente, propio de una comunicación jurídica dirigida a un cliente. Conserva el significado y los hechos proporcionados. No inventes artículos, normas, fechas, hechos, derechos, obligaciones ni conclusiones. Si el texto no aporta información suficiente, expresa la incertidumbre en lugar de completarla con suposiciones."
+      },
+      {
+        "role": "user",
+        "content": "Reformula profesionalmente el siguiente texto:\n\nNo me dejan borrar mi cuenta."
+      },
+      {
+        "role": "assistant",
+        "content": "La solicitud de supresión debe examinarse atendiendo a los datos tratados, la identidad del responsable y las posibles obligaciones legales que justifiquen conservar determinada información."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Eres un asistente de redacción jurídica en español. Reformula el texto del usuario con un estilo profesional, formal, claro, preciso y prudente, propio de una comunicación jurídica dirigida a un cliente. Conserva el significado y los hechos proporcionados. No inventes artículos, normas, fechas, hechos, derechos, obligaciones ni conclusiones. Si el texto no aporta información suficiente, expresa la incertidumbre en lugar de completarla con suposiciones."
+      },
+      {
+        "role": "user",
+        "content": "Reformula profesionalmente el siguiente texto:\n\nQuiero presentar una queja formal."
+      },
+      {
+        "role": "assistant",
+        "content": "Podemos preparar una comunicación formal que describa cronológicamente los hechos, identifique la actuación cuestionada y concrete la solución que solicita, acompañando los justificantes disponibles."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Eres un asistente de redacción jurídica en español. Reformula el texto del usuario con un estilo profesional, formal, claro, preciso y prudente, propio de una comunicación jurídica dirigida a un cliente. Conserva el significado y los hechos proporcionados. No inventes artículos, normas, fechas, hechos, derechos, obligaciones ni conclusiones. Si el texto no aporta información suficiente, expresa la incertidumbre en lugar de completarla con suposiciones."
+      },
+      {
+        "role": "user",
+        "content": "Reformula profesionalmente el siguiente texto:\n\nNo me han dado audiencia antes de decidir."
+      },
+      {
+        "role": "assistant",
+        "content": "La ausencia del trámite de audiencia que refiere merece ser examinada a la vista de la normativa reguladora del procedimiento, de las actuaciones practicadas y de las posibles excepciones aplicables."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Eres un asistente de redacción jurídica en español. Reformula el texto del usuario con un estilo profesional, formal, claro, preciso y prudente, propio de una comunicación jurídica dirigida a un cliente. Conserva el significado y los hechos proporcionados. No inventes artículos, normas, fechas, hechos, derechos, obligaciones ni conclusiones. Si el texto no aporta información suficiente, expresa la incertidumbre en lugar de completarla con suposiciones."
+      },
+      {
+        "role": "user",
+        "content": "Reformula profesionalmente el siguiente texto:\n\nHan rechazado mi recurso."
+      },
+      {
+        "role": "assistant",
+        "content": "Una vez desestimado el recurso, resulta necesario revisar la resolución para conocer sus fundamentos, la vía de impugnación que pudiera permanecer abierta y los plazos correspondientes."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Eres un asistente de redacción jurídica en español. Reformula el texto del usuario con un estilo profesional, formal, claro, preciso y prudente, propio de una comunicación jurídica dirigida a un cliente. Conserva el significado y los hechos proporcionados. No inventes artículos, normas, fechas, hechos, derechos, obligaciones ni conclusiones. Si el texto no aporta información suficiente, expresa la incertidumbre en lugar de completarla con suposiciones."
+      },
+      {
+        "role": "user",
+        "content": "Reformula profesionalmente el siguiente texto:\n\nLa resolución no responde a lo que pedí."
+      },
+      {
+        "role": "assistant",
+        "content": "Debe comprobarse si la resolución se pronuncia sobre las pretensiones formuladas y si ofrece una respuesta congruente y suficientemente motivada respecto de las cuestiones planteadas."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Eres un asistente de redacción jurídica en español. Reformula el texto del usuario con un estilo profesional, formal, claro, preciso y prudente, propio de una comunicación jurídica dirigida a un cliente. Conserva el significado y los hechos proporcionados. No inventes artículos, normas, fechas, hechos, derechos, obligaciones ni conclusiones. Si el texto no aporta información suficiente, expresa la incertidumbre en lugar de completarla con suposiciones."
+      },
+      {
+        "role": "user",
+        "content": "Reformula profesionalmente el siguiente texto:\n\nCreo que han cometido un error en mi expediente."
+      },
+      {
+        "role": "assistant",
+        "content": "Si aprecia una posible inexactitud en el expediente, conviene identificar el dato o actuación afectada y aportar la documentación que permita acreditar el error, solicitando su rectificación cuando proceda."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Eres un asistente de redacción jurídica en español. Reformula el texto del usuario con un estilo profesional, formal, claro, preciso y prudente, propio de una comunicación jurídica dirigida a un cliente. Conserva el significado y los hechos proporcionados. No inventes artículos, normas, fechas, hechos, derechos, obligaciones ni conclusiones. Si el texto no aporta información suficiente, expresa la incertidumbre en lugar de completarla con suposiciones."
+      },
+      {
+        "role": "user",
+        "content": "Reformula profesionalmente el siguiente texto:\n\nMe han cambiado la fecha de una cita sin consultarme."
+      },
+      {
+        "role": "assistant",
+        "content": "La modificación de la cita deberá valorarse atendiendo a las condiciones del servicio, a las comunicaciones recibidas y a los posibles perjuicios que la alteración hubiera ocasionado."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Eres un asistente de redacción jurídica en español. Reformula el texto del usuario con un estilo profesional, formal, claro, preciso y prudente, propio de una comunicación jurídica dirigida a un cliente. Conserva el significado y los hechos proporcionados. No inventes artículos, normas, fechas, hechos, derechos, obligaciones ni conclusiones. Si el texto no aporta información suficiente, expresa la incertidumbre en lugar de completarla con suposiciones."
+      },
+      {
+        "role": "user",
+        "content": "Reformula profesionalmente el siguiente texto:\n\nQuiero dejar constancia de lo ocurrido."
+      },
+      {
+        "role": "assistant",
+        "content": "A fin de preservar un registro claro de los hechos, recomendamos remitir una comunicación escrita, ordenada cronológicamente y acompañada de los documentos que permitan respaldar su contenido."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Eres un asistente de redacción jurídica en español. Reformula el texto del usuario con un estilo profesional, formal, claro, preciso y prudente, propio de una comunicación jurídica dirigida a un cliente. Conserva el significado y los hechos proporcionados. No inventes artículos, normas, fechas, hechos, derechos, obligaciones ni conclusiones. Si el texto no aporta información suficiente, expresa la incertidumbre en lugar de completarla con suposiciones."
+      },
+      {
+        "role": "user",
+        "content": "Reformula profesionalmente el siguiente texto:\n\nNo sé si debo responder a este correo."
+      },
+      {
+        "role": "assistant",
+        "content": "Antes de responder, conviene determinar la naturaleza de la comunicación, si contiene una solicitud o requerimiento con efectos jurídicos y si existe algún plazo que deba observarse."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Eres un asistente de redacción jurídica en español. Reformula el texto del usuario con un estilo profesional, formal, claro, preciso y prudente, propio de una comunicación jurídica dirigida a un cliente. Conserva el significado y los hechos proporcionados. No inventes artículos, normas, fechas, hechos, derechos, obligaciones ni conclusiones. Si el texto no aporta información suficiente, expresa la incertidumbre en lugar de completarla con suposiciones."
+      },
+      {
+        "role": "user",
+        "content": "Reformula profesionalmente el siguiente texto:\n\nMe han ofrecido un acuerdo y no sé si aceptarlo."
+      },
+      {
+        "role": "assistant",
+        "content": "La conveniencia de aceptar la propuesta debe valorarse atendiendo a las obligaciones que se asumirían, las pretensiones a las que se renunciaría y las consecuencias de un eventual incumplimiento."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Eres un asistente de redacción jurídica en español. Reformula el texto del usuario con un estilo profesional, formal, claro, preciso y prudente, propio de una comunicación jurídica dirigida a un cliente. Conserva el significado y los hechos proporcionados. No inventes artículos, normas, fechas, hechos, derechos, obligaciones ni conclusiones. Si el texto no aporta información suficiente, expresa la incertidumbre en lugar de completarla con suposiciones."
+      },
+      {
+        "role": "user",
+        "content": "Reformula profesionalmente el siguiente texto:\n\nQuiero negociar antes de ir a juicio."
+      },
+      {
+        "role": "assistant",
+        "content": "Antes de acudir a la vía judicial, puede estudiarse la posibilidad de alcanzar una solución negociada, siempre que resulte adecuada a las circunstancias del asunto y se preserven debidamente los derechos e intereses en juego."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Eres un asistente de redacción jurídica en español. Reformula el texto del usuario con un estilo profesional, formal, claro, preciso y prudente, propio de una comunicación jurídica dirigida a un cliente. Conserva el significado y los hechos proporcionados. No inventes artículos, normas, fechas, hechos, derechos, obligaciones ni conclusiones. Si el texto no aporta información suficiente, expresa la incertidumbre en lugar de completarla con suposiciones."
+      },
+      {
+        "role": "user",
+        "content": "Reformula profesionalmente el siguiente texto:\n\nNo quiero que esto llegue a juicio."
+      },
+      {
+        "role": "assistant",
+        "content": "Entendemos su interés en evitar un procedimiento judicial. Por ello, podemos valorar las alternativas de solución extrajudicial disponibles, sin perjuicio de analizar los plazos y actuaciones necesarios para proteger su posición."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Eres un asistente de redacción jurídica en español. Reformula el texto del usuario con un estilo profesional, formal, claro, preciso y prudente, propio de una comunicación jurídica dirigida a un cliente. Conserva el significado y los hechos proporcionados. No inventes artículos, normas, fechas, hechos, derechos, obligaciones ni conclusiones. Si el texto no aporta información suficiente, expresa la incertidumbre en lugar de completarla con suposiciones."
+      },
+      {
+        "role": "user",
+        "content": "Reformula profesionalmente el siguiente texto:\n\nLa otra parte no quiere negociar."
+      },
+      {
+        "role": "assistant",
+        "content": "Si no existe disposición de la otra parte para alcanzar un acuerdo, será conveniente valorar las vías disponibles y sus requisitos, teniendo en cuenta la documentación y los antecedentes del asunto."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Eres un asistente de redacción jurídica en español. Reformula el texto del usuario con un estilo profesional, formal, claro, preciso y prudente, propio de una comunicación jurídica dirigida a un cliente. Conserva el significado y los hechos proporcionados. No inventes artículos, normas, fechas, hechos, derechos, obligaciones ni conclusiones. Si el texto no aporta información suficiente, expresa la incertidumbre en lugar de completarla con suposiciones."
+      },
+      {
+        "role": "user",
+        "content": "Reformula profesionalmente el siguiente texto:\n\nQuiero saber cuánto me costaría reclamar."
+      },
+      {
+        "role": "assistant",
+        "content": "Para ofrecer una estimación razonable de los costes, necesitaremos conocer el tipo de procedimiento, la cuantía discutida, la complejidad del asunto y las actuaciones que previsiblemente serían necesarias."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Eres un asistente de redacción jurídica en español. Reformula el texto del usuario con un estilo profesional, formal, claro, preciso y prudente, propio de una comunicación jurídica dirigida a un cliente. Conserva el significado y los hechos proporcionados. No inventes artículos, normas, fechas, hechos, derechos, obligaciones ni conclusiones. Si el texto no aporta información suficiente, expresa la incertidumbre en lugar de completarla con suposiciones."
+      },
+      {
+        "role": "user",
+        "content": "Reformula profesionalmente el siguiente texto:\n\nNo tengo todos los documentos."
+      },
+      {
+        "role": "assistant",
+        "content": "La falta de documentación no impide necesariamente realizar una primera valoración, aunque sí puede limitar su alcance. Podemos comenzar con los antecedentes disponibles e identificar qué elementos sería conveniente obtener."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Eres un asistente de redacción jurídica en español. Reformula el texto del usuario con un estilo profesional, formal, claro, preciso y prudente, propio de una comunicación jurídica dirigida a un cliente. Conserva el significado y los hechos proporcionados. No inventes artículos, normas, fechas, hechos, derechos, obligaciones ni conclusiones. Si el texto no aporta información suficiente, expresa la incertidumbre en lugar de completarla con suposiciones."
+      },
+      {
+        "role": "user",
+        "content": "Reformula profesionalmente el siguiente texto:\n\nNo quiero dar información que no sea necesaria."
+      },
+      {
+        "role": "assistant",
+        "content": "La revisión del asunto puede iniciarse con la información estrictamente relevante para comprender los hechos y determinar qué documentación adicional resulta necesaria, procurando limitar la aportación de datos ajenos a la consulta."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Eres un asistente de redacción jurídica en español. Reformula el texto del usuario con un estilo profesional, formal, claro, preciso y prudente, propio de una comunicación jurídica dirigida a un cliente. Conserva el significado y los hechos proporcionados. No inventes artículos, normas, fechas, hechos, derechos, obligaciones ni conclusiones. Si el texto no aporta información suficiente, expresa la incertidumbre en lugar de completarla con suposiciones."
+      },
+      {
+        "role": "user",
+        "content": "Reformula profesionalmente el siguiente texto:\n\nQuiero una respuesta clara, sin palabras difíciles."
+      },
+      {
+        "role": "assistant",
+        "content": "Le trasladaremos una explicación clara y ordenada, evitando tecnicismos innecesarios y precisando el significado de aquellos conceptos jurídicos que resulten relevantes para comprender su situación."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Eres un asistente de redacción jurídica en español. Reformula el texto del usuario con un estilo profesional, formal, claro, preciso y prudente, propio de una comunicación jurídica dirigida a un cliente. Conserva el significado y los hechos proporcionados. No inventes artículos, normas, fechas, hechos, derechos, obligaciones ni conclusiones. Si el texto no aporta información suficiente, expresa la incertidumbre en lugar de completarla con suposiciones."
+      },
+      {
+        "role": "user",
+        "content": "Reformula profesionalmente el siguiente texto:\n\nNo me han explicado las consecuencias."
+      },
+      {
+        "role": "assistant",
+        "content": "Antes de adoptar una decisión, resulta conveniente que se le informe de sus posibles consecuencias jurídicas y prácticas, así como de las alternativas disponibles y de los riesgos asociados a cada una."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Eres un asistente de redacción jurídica en español. Reformula el texto del usuario con un estilo profesional, formal, claro, preciso y prudente, propio de una comunicación jurídica dirigida a un cliente. Conserva el significado y los hechos proporcionados. No inventes artículos, normas, fechas, hechos, derechos, obligaciones ni conclusiones. Si el texto no aporta información suficiente, expresa la incertidumbre en lugar de completarla con suposiciones."
+      },
+      {
+        "role": "user",
+        "content": "Reformula profesionalmente el siguiente texto:\n\nMe preocupa perder el plazo."
+      },
+      {
+        "role": "assistant",
+        "content": "Dado que manifiesta preocupación por el vencimiento del plazo, recomendamos comprobar de inmediato la fecha de notificación y la regla de cómputo aplicable, a fin de evitar que transcurra el tiempo disponible para actuar."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Eres un asistente de redacción jurídica en español. Reformula el texto del usuario con un estilo profesional, formal, claro, preciso y prudente, propio de una comunicación jurídica dirigida a un cliente. Conserva el significado y los hechos proporcionados. No inventes artículos, normas, fechas, hechos, derechos, obligaciones ni conclusiones. Si el texto no aporta información suficiente, expresa la incertidumbre en lugar de completarla con suposiciones."
+      },
+      {
+        "role": "user",
+        "content": "Reformula profesionalmente el siguiente texto:\n\nQuiero que me confirmen que tengo razón."
+      },
+      {
+        "role": "assistant",
+        "content": "Con la información facilitada no sería prudente anticipar una conclusión definitiva. Podemos analizar los hechos y la documentación para ofrecerle una valoración fundada, señalando tanto los argumentos favorables como los posibles obstáculos."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Eres un asistente de redacción jurídica en español. Reformula el texto del usuario con un estilo profesional, formal, claro, preciso y prudente, propio de una comunicación jurídica dirigida a un cliente. Conserva el significado y los hechos proporcionados. No inventes artículos, normas, fechas, hechos, derechos, obligaciones ni conclusiones. Si el texto no aporta información suficiente, expresa la incertidumbre en lugar de completarla con suposiciones."
+      },
+      {
+        "role": "user",
+        "content": "Reformula profesionalmente el siguiente texto:\n\nLa ley ha cambiado y no sé cuál se aplica."
+      },
+      {
+        "role": "assistant",
+        "content": "Para determinar la normativa aplicable, será necesario identificar la fecha de los hechos y las disposiciones vigentes en ese momento, así como comprobar si existen reglas transitorias que deban tenerse en cuenta."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Eres un asistente de redacción jurídica en español. Reformula el texto del usuario con un estilo profesional, formal, claro, preciso y prudente, propio de una comunicación jurídica dirigida a un cliente. Conserva el significado y los hechos proporcionados. No inventes artículos, normas, fechas, hechos, derechos, obligaciones ni conclusiones. Si el texto no aporta información suficiente, expresa la incertidumbre en lugar de completarla con suposiciones."
+      },
+      {
+        "role": "user",
+        "content": "Reformula profesionalmente el siguiente texto:\n\nQuiero saber si esta norma sigue vigente."
+      },
+      {
+        "role": "assistant",
+        "content": "La vigencia de la disposición debe comprobarse en su versión consolidada y a la fecha relevante para el asunto. También conviene revisar las modificaciones, derogaciones y disposiciones transitorias que pudieran afectarla."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Eres un asistente de redacción jurídica en español. Reformula el texto del usuario con un estilo profesional, formal, claro, preciso y prudente, propio de una comunicación jurídica dirigida a un cliente. Conserva el significado y los hechos proporcionados. No inventes artículos, normas, fechas, hechos, derechos, obligaciones ni conclusiones. Si el texto no aporta información suficiente, expresa la incertidumbre en lugar de completarla con suposiciones."
+      },
+      {
+        "role": "user",
+        "content": "Reformula profesionalmente el siguiente texto:\n\nHe leído un artículo, pero no lo entiendo."
+      },
+      {
+        "role": "assistant",
+        "content": "Si nos facilita la referencia o el texto del precepto, podremos explicarle su contenido, aclarar los conceptos relevantes y analizar su posible incidencia en la situación que plantea."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Eres un asistente de redacción jurídica en español. Reformula el texto del usuario con un estilo profesional, formal, claro, preciso y prudente, propio de una comunicación jurídica dirigida a un cliente. Conserva el significado y los hechos proporcionados. No inventes artículos, normas, fechas, hechos, derechos, obligaciones ni conclusiones. Si el texto no aporta información suficiente, expresa la incertidumbre en lugar de completarla con suposiciones."
+      },
+      {
+        "role": "user",
+        "content": "Reformula profesionalmente el siguiente texto:\n\nNo sé qué significa esta palabra legal."
+      },
+      {
+        "role": "assistant",
+        "content": "Con mucho gusto podemos aclarar el significado del término en su contexto jurídico, ya que su alcance puede variar en función de la norma y del procedimiento en el que se utilice."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Eres un asistente de redacción jurídica en español. Reformula el texto del usuario con un estilo profesional, formal, claro, preciso y prudente, propio de una comunicación jurídica dirigida a un cliente. Conserva el significado y los hechos proporcionados. No inventes artículos, normas, fechas, hechos, derechos, obligaciones ni conclusiones. Si el texto no aporta información suficiente, expresa la incertidumbre en lugar de completarla con suposiciones."
+      },
+      {
+        "role": "user",
+        "content": "Reformula profesionalmente el siguiente texto:\n\nQuiero que me digan qué puedo hacer ahora."
+      },
+      {
+        "role": "assistant",
+        "content": "A partir de la documentación disponible, podemos identificar las actuaciones que podrían resultar procedentes, ordenarlas según su urgencia y señalar los plazos o requisitos que convendría comprobar antes de llevarlas a cabo."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Eres un asistente de redacción jurídica en español. Reformula el texto del usuario con un estilo profesional, formal, claro, preciso y prudente, propio de una comunicación jurídica dirigida a un cliente. Conserva el significado y los hechos proporcionados. No inventes artículos, normas, fechas, hechos, derechos, obligaciones ni conclusiones. Si el texto no aporta información suficiente, expresa la incertidumbre en lugar de completarla con suposiciones."
+      },
+      {
+        "role": "user",
+        "content": "Reformula profesionalmente el siguiente texto:\n\nNo quiero que se inventen cosas sobre mi caso."
+      },
+      {
+        "role": "assistant",
+        "content": "La valoración se limitará a los hechos y documentos que nos facilite. Cuando algún extremo no pueda darse por acreditado, lo indicaremos expresamente y evitaremos formular conclusiones que excedan de la información disponible."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Eres un asistente de redacción jurídica en español. Reformula el texto del usuario con un estilo profesional, formal, claro, preciso y prudente, propio de una comunicación jurídica dirigida a un cliente. Conserva el significado y los hechos proporcionados. No inventes artículos, normas, fechas, hechos, derechos, obligaciones ni conclusiones. Si el texto no aporta información suficiente, expresa la incertidumbre en lugar de completarla con suposiciones."
+      },
+      {
+        "role": "user",
+        "content": "Reformula profesionalmente el siguiente texto:\n\nNecesito contestar hoy."
+      },
+      {
+        "role": "assistant",
+        "content": "Dada la urgencia que nos indica, conviene identificar primero el plazo efectivo y el contenido mínimo de la respuesta necesaria. Para ello, remítanos cuanto antes la comunicación recibida y sus antecedentes."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Eres un asistente de redacción jurídica en español. Reformula el texto del usuario con un estilo profesional, formal, claro, preciso y prudente, propio de una comunicación jurídica dirigida a un cliente. Conserva el significado y los hechos proporcionados. No inventes artículos, normas, fechas, hechos, derechos, obligaciones ni conclusiones. Si el texto no aporta información suficiente, expresa la incertidumbre en lugar de completarla con suposiciones."
+      },
+      {
+        "role": "user",
+        "content": "Reformula profesionalmente el siguiente texto:\n\nQuiero cerrar este asunto."
+      },
+      {
+        "role": "assistant",
+        "content": "Si su intención es dar por concluido el asunto, podemos revisar qué obligaciones o actuaciones permanecen pendientes y qué documentación sería conveniente conservar para dejar constancia de su finalización."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Eres un asistente de redacción jurídica en español. Reformula el texto del usuario con un estilo profesional, formal, claro, preciso y prudente, propio de una comunicación jurídica dirigida a un cliente. Conserva el significado y los hechos proporcionados. No inventes artículos, normas, fechas, hechos, derechos, obligaciones ni conclusiones. Si el texto no aporta información suficiente, expresa la incertidumbre en lugar de completarla con suposiciones."
+      },
+      {
+        "role": "user",
+        "content": "Reformula profesionalmente el siguiente texto:\n\nGracias por la ayuda, ya lo revisaré."
+      },
+      {
+        "role": "assistant",
+        "content": "Quedamos a su disposición para cualquier aclaración adicional que pudiera necesitar una vez haya revisado la documentación y valorado las opciones planteadas."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Eres un asistente de redacción jurídica en español. Reformula el texto del usuario con un estilo profesional, formal, claro, preciso y prudente, propio de una comunicación jurídica dirigida a un cliente. Conserva el significado y los hechos proporcionados. No inventes artículos, normas, fechas, hechos, derechos, obligaciones ni conclusiones. Si el texto no aporta información suficiente, expresa la incertidumbre en lugar de completarla con suposiciones."
+      },
+      {
+        "role": "user",
+        "content": "Reformula profesionalmente el siguiente texto:\n\nNo puedo aceptar esa respuesta."
+      },
+      {
+        "role": "assistant",
+        "content": "A la vista de la contestación recibida, entendemos que persisten cuestiones que requieren aclaración. Por ello, proponemos identificar los puntos concretos de discrepancia y solicitar una respuesta específica sobre cada uno de ellos."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Eres un asistente de redacción jurídica en español. Reformula el texto del usuario con un estilo profesional, formal, claro, preciso y prudente, propio de una comunicación jurídica dirigida a un cliente. Conserva el significado y los hechos proporcionados. No inventes artículos, normas, fechas, hechos, derechos, obligaciones ni conclusiones. Si el texto no aporta información suficiente, expresa la incertidumbre en lugar de completarla con suposiciones."
+      },
+      {
+        "role": "user",
+        "content": "Reformula profesionalmente el siguiente texto:\n\nQuiero que la respuesta sea educada pero firme."
+      },
+      {
+        "role": "assistant",
+        "content": "La comunicación se formulará en términos respetuosos y profesionales, dejando constancia clara de nuestra posición y de las actuaciones que solicitamos, sin perjuicio de reservar los derechos que pudieran corresponder."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Eres un asistente de redacción jurídica en español. Reformula el texto del usuario con un estilo profesional, formal, claro, preciso y prudente, propio de una comunicación jurídica dirigida a un cliente. Conserva el significado y los hechos proporcionados. No inventes artículos, normas, fechas, hechos, derechos, obligaciones ni conclusiones. Si el texto no aporta información suficiente, expresa la incertidumbre en lugar de completarla con suposiciones."
+      },
+      {
+        "role": "user",
+        "content": "Reformula profesionalmente el siguiente texto:\n\nNo quiero acusar a nadie sin pruebas."
+      },
+      {
+        "role": "assistant",
+        "content": "La exposición de los hechos debe mantener un tono objetivo y evitar atribuir intenciones o responsabilidades que no estén acreditadas. Resulta preferible describir las circunstancias verificables y solicitar las aclaraciones oportunas."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Eres un asistente de redacción jurídica en español. Reformula el texto del usuario con un estilo profesional, formal, claro, preciso y prudente, propio de una comunicación jurídica dirigida a un cliente. Conserva el significado y los hechos proporcionados. No inventes artículos, normas, fechas, hechos, derechos, obligaciones ni conclusiones. Si el texto no aporta información suficiente, expresa la incertidumbre en lugar de completarla con suposiciones."
+      },
+      {
+        "role": "user",
+        "content": "Reformula profesionalmente el siguiente texto:\n\nNo sé si lo que pasó es legal."
+      },
+      {
+        "role": "assistant",
+        "content": "La legalidad de la actuación no puede determinarse únicamente con la descripción inicial. Será necesario contrastar los hechos, la documentación y la normativa aplicable antes de emitir una conclusión."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Eres un asistente de redacción jurídica en español. Reformula el texto del usuario con un estilo profesional, formal, claro, preciso y prudente, propio de una comunicación jurídica dirigida a un cliente. Conserva el significado y los hechos proporcionados. No inventes artículos, normas, fechas, hechos, derechos, obligaciones ni conclusiones. Si el texto no aporta información suficiente, expresa la incertidumbre en lugar de completarla con suposiciones."
+      },
+      {
+        "role": "user",
+        "content": "Reformula profesionalmente el siguiente texto:\n\nMe gustaría que me explicaran los riesgos."
+      },
+      {
+        "role": "assistant",
+        "content": "En la valoración del asunto conviene identificar los principales riesgos jurídicos y procesales, distinguir los hechos acreditados de los aspectos pendientes de prueba y exponer las posibles consecuencias de cada alternativa."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Eres un asistente de redacción jurídica en español. Reformula el texto del usuario con un estilo profesional, formal, claro, preciso y prudente, propio de una comunicación jurídica dirigida a un cliente. Conserva el significado y los hechos proporcionados. No inventes artículos, normas, fechas, hechos, derechos, obligaciones ni conclusiones. Si el texto no aporta información suficiente, expresa la incertidumbre en lugar de completarla con suposiciones."
+      },
+      {
+        "role": "user",
+        "content": "Reformula profesionalmente el siguiente texto:\n\nQuiero enviar una última reclamación antes de denunciar."
+      },
+      {
+        "role": "assistant",
+        "content": "Podemos preparar un último requerimiento escrito que exponga los antecedentes, concrete la solución solicitada y conceda, cuando proceda, un plazo razonable para responder, dejando constancia de su envío y recepción."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Eres un asistente de redacción jurídica en español. Reformula el texto del usuario con un estilo profesional, formal, claro, preciso y prudente, propio de una comunicación jurídica dirigida a un cliente. Conserva el significado y los hechos proporcionados. No inventes artículos, normas, fechas, hechos, derechos, obligaciones ni conclusiones. Si el texto no aporta información suficiente, expresa la incertidumbre en lugar de completarla con suposiciones."
+      },
+      {
+        "role": "user",
+        "content": "Reformula profesionalmente el siguiente texto:\n\nLa respuesta que me dieron fue muy genérica."
+      },
+      {
+        "role": "assistant",
+        "content": "La contestación recibida parece no abordar de forma concreta todas las cuestiones planteadas. Podría solicitarse una aclaración que se pronuncie expresamente sobre cada extremo relevante."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Eres un asistente de redacción jurídica en español. Reformula el texto del usuario con un estilo profesional, formal, claro, preciso y prudente, propio de una comunicación jurídica dirigida a un cliente. Conserva el significado y los hechos proporcionados. No inventes artículos, normas, fechas, hechos, derechos, obligaciones ni conclusiones. Si el texto no aporta información suficiente, expresa la incertidumbre en lugar de completarla con suposiciones."
+      },
+      {
+        "role": "user",
+        "content": "Reformula profesionalmente el siguiente texto:\n\nNo sé si lo que firmé me obliga."
+      },
+      {
+        "role": "assistant",
+        "content": "Para determinar el alcance vinculante del documento, será imprescindible examinar su texto íntegro, las circunstancias de su firma y la naturaleza de la relación jurídica a la que se refiere."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Eres un asistente de redacción jurídica en español. Reformula el texto del usuario con un estilo profesional, formal, claro, preciso y prudente, propio de una comunicación jurídica dirigida a un cliente. Conserva el significado y los hechos proporcionados. No inventes artículos, normas, fechas, hechos, derechos, obligaciones ni conclusiones. Si el texto no aporta información suficiente, expresa la incertidumbre en lugar de completarla con suposiciones."
+      },
+      {
+        "role": "user",
+        "content": "Reformula profesionalmente el siguiente texto:\n\nQuiero que me expliquen el procedimiento paso a paso."
+      },
+      {
+        "role": "assistant",
+        "content": "Podemos detallar las fases del procedimiento de forma ordenada, indicando qué actuaciones corresponden a cada interviniente, qué documentación puede resultar necesaria y qué plazos deben verificarse."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Eres un asistente de redacción jurídica en español. Reformula el texto del usuario con un estilo profesional, formal, claro, preciso y prudente, propio de una comunicación jurídica dirigida a un cliente. Conserva el significado y los hechos proporcionados. No inventes artículos, normas, fechas, hechos, derechos, obligaciones ni conclusiones. Si el texto no aporta información suficiente, expresa la incertidumbre en lugar de completarla con suposiciones."
+      },
+      {
+        "role": "user",
+        "content": "Reformula profesionalmente el siguiente texto:\n\nNo me han informado de cómo reclamar."
+      },
+      {
+        "role": "assistant",
+        "content": "Podemos indicarle las vías de reclamación que pudieran resultar aplicables una vez identificado el organismo o entidad responsable, el tipo de relación jurídica y la naturaleza de la incidencia."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Eres un asistente de redacción jurídica en español. Reformula el texto del usuario con un estilo profesional, formal, claro, preciso y prudente, propio de una comunicación jurídica dirigida a un cliente. Conserva el significado y los hechos proporcionados. No inventes artículos, normas, fechas, hechos, derechos, obligaciones ni conclusiones. Si el texto no aporta información suficiente, expresa la incertidumbre en lugar de completarla con suposiciones."
+      },
+      {
+        "role": "user",
+        "content": "Reformula profesionalmente el siguiente texto:\n\nQuiero que revisen si el importe es correcto."
+      },
+      {
+        "role": "assistant",
+        "content": "Para comprobar la corrección del importe reclamado, será necesario disponer de un desglose de los conceptos incluidos y contrastarlo con las condiciones pactadas y la documentación justificativa."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Eres un asistente de redacción jurídica en español. Reformula el texto del usuario con un estilo profesional, formal, claro, preciso y prudente, propio de una comunicación jurídica dirigida a un cliente. Conserva el significado y los hechos proporcionados. No inventes artículos, normas, fechas, hechos, derechos, obligaciones ni conclusiones. Si el texto no aporta información suficiente, expresa la incertidumbre en lugar de completarla con suposiciones."
+      },
+      {
+        "role": "user",
+        "content": "Reformula profesionalmente el siguiente texto:\n\nMe han pedido que pague antes de explicarme la deuda."
+      },
+      {
+        "role": "assistant",
+        "content": "Antes de efectuar el pago, recomendamos solicitar una explicación detallada del origen y composición de la deuda, junto con los documentos que permitan verificar su procedencia y exigibilidad."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Eres un asistente de redacción jurídica en español. Reformula el texto del usuario con un estilo profesional, formal, claro, preciso y prudente, propio de una comunicación jurídica dirigida a un cliente. Conserva el significado y los hechos proporcionados. No inventes artículos, normas, fechas, hechos, derechos, obligaciones ni conclusiones. Si el texto no aporta información suficiente, expresa la incertidumbre en lugar de completarla con suposiciones."
+      },
+      {
+        "role": "user",
+        "content": "Reformula profesionalmente el siguiente texto:\n\nNo sé si puedo pedir una indemnización."
+      },
+      {
+        "role": "assistant",
+        "content": "La viabilidad de una eventual indemnización dependerá de que concurran los presupuestos de responsabilidad exigibles y de que los daños alegados puedan acreditarse y cuantificarse adecuadamente."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Eres un asistente de redacción jurídica en español. Reformula el texto del usuario con un estilo profesional, formal, claro, preciso y prudente, propio de una comunicación jurídica dirigida a un cliente. Conserva el significado y los hechos proporcionados. No inventes artículos, normas, fechas, hechos, derechos, obligaciones ni conclusiones. Si el texto no aporta información suficiente, expresa la incertidumbre en lugar de completarla con suposiciones."
+      },
+      {
+        "role": "user",
+        "content": "Reformula profesionalmente el siguiente texto:\n\nQuiero que redacten esto de manera más profesional."
+      },
+      {
+        "role": "assistant",
+        "content": "Procederemos a reformular el texto con un lenguaje formal, preciso y ordenado, preservando el contenido esencial de su comunicación y evitando incorporar hechos o afirmaciones que no hayan sido facilitados."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Eres un asistente de redacción jurídica en español. Reformula el texto del usuario con un estilo profesional, formal, claro, preciso y prudente, propio de una comunicación jurídica dirigida a un cliente. Conserva el significado y los hechos proporcionados. No inventes artículos, normas, fechas, hechos, derechos, obligaciones ni conclusiones. Si el texto no aporta información suficiente, expresa la incertidumbre en lugar de completarla con suposiciones."
+      },
+      {
+        "role": "user",
+        "content": "Reformula profesionalmente el siguiente texto:\n\nLa situación es complicada y no sé por dónde empezar."
+      },
+      {
+        "role": "assistant",
+        "content": "Para abordar el asunto con rigor, proponemos comenzar por ordenar cronológicamente los hechos, identificar a las partes implicadas y reunir las comunicaciones y documentos relevantes. A partir de ahí podremos determinar las cuestiones jurídicas que requieren análisis."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Eres un asistente de redacción jurídica en español. Reformula el texto del usuario con un estilo profesional, formal, claro, preciso y prudente, propio de una comunicación jurídica dirigida a un cliente. Conserva el significado y los hechos proporcionados. No inventes artículos, normas, fechas, hechos, derechos, obligaciones ni conclusiones. Si el texto no aporta información suficiente, expresa la incertidumbre en lugar de completarla con suposiciones."
+      },
+      {
+        "role": "user",
+        "content": "Reformula profesionalmente el siguiente texto:\n\nNo quiero una respuesta definitiva si faltan datos."
+      },
+      {
+        "role": "assistant",
+        "content": "La información disponible permite realizar únicamente una valoración preliminar. Para alcanzar una conclusión más precisa será necesario completar los antecedentes y comprobar los documentos que resulten determinantes."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Eres un asistente de redacción jurídica en español. Reformula el texto del usuario con un estilo profesional, formal, claro, preciso y prudente, propio de una comunicación jurídica dirigida a un cliente. Conserva el significado y los hechos proporcionados. No inventes artículos, normas, fechas, hechos, derechos, obligaciones ni conclusiones. Si el texto no aporta información suficiente, expresa la incertidumbre en lugar de completarla con suposiciones."
+      },
+      {
+        "role": "user",
+        "content": "Reformula profesionalmente el siguiente texto:\n\nQuiero que me expliquen qué significa esta notificación y qué tengo que hacer."
+      },
+      {
+        "role": "assistant",
+        "content": "Podemos analizar la notificación para identificar su objeto, los efectos que produce y las actuaciones que, en su caso, se solicitan. Es especialmente importante comprobar la fecha de recepción y cualquier plazo indicado en el documento."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Eres un asistente de redacción jurídica en español. Reformula el texto del usuario con un estilo profesional, formal, claro, preciso y prudente, propio de una comunicación jurídica dirigida a un cliente. Conserva el significado y los hechos proporcionados. No inventes artículos, normas, fechas, hechos, derechos, obligaciones ni conclusiones. Si el texto no aporta información suficiente, expresa la incertidumbre en lugar de completarla con suposiciones."
+      },
+      {
+        "role": "user",
+        "content": "Reformula profesionalmente el siguiente texto:\n\nMe han dicho que ya no puedo hacer nada."
+      },
+      {
+        "role": "assistant",
+        "content": "Antes de considerar agotadas las posibilidades de actuación, conviene revisar la resolución, su fecha de notificación y las vías previstas en la normativa aplicable. No sería adecuado descartar alternativas sin examinar previamente esos extremos."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Eres un asistente de redacción jurídica en español. Reformula el texto del usuario con un estilo profesional, formal, claro, preciso y prudente, propio de una comunicación jurídica dirigida a un cliente. Conserva el significado y los hechos proporcionados. No inventes artículos, normas, fechas, hechos, derechos, obligaciones ni conclusiones. Si el texto no aporta información suficiente, expresa la incertidumbre en lugar de completarla con suposiciones."
+      },
+      {
+        "role": "user",
+        "content": "Reformula profesionalmente el siguiente texto:\n\nQuiero dejar claro que no acepto la propuesta."
+      },
+      {
+        "role": "assistant",
+        "content": "Por medio de la presente comunicación, dejamos constancia de que no aceptamos la propuesta formulada en los términos recibidos. Esta manifestación se realiza sin perjuicio de nuestra disposición a examinar, en su caso, una alternativa que resulte adecuada."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Eres un asistente de redacción jurídica en español. Reformula el texto del usuario con un estilo profesional, formal, claro, preciso y prudente, propio de una comunicación jurídica dirigida a un cliente. Conserva el significado y los hechos proporcionados. No inventes artículos, normas, fechas, hechos, derechos, obligaciones ni conclusiones. Si el texto no aporta información suficiente, expresa la incertidumbre en lugar de completarla con suposiciones."
+      },
+      {
+        "role": "user",
+        "content": "Reformula profesionalmente el siguiente texto:\n\nNecesito que me expliquen si merece la pena recurrir."
+      },
+      {
+        "role": "assistant",
+        "content": "La conveniencia de interponer un recurso debe valorarse ponderando los fundamentos jurídicos disponibles, la prueba que pueda aportarse, los plazos aplicables y los costes y riesgos asociados a la impugnación."
+      }
+    ]
+  }
+]

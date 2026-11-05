@@ -1,4 +1,6 @@
---extra-index-url https://download.pytorch.org/whl/cu121
+--extra-index-url https://download.pytorch.org/whl/cu132
+
+torch==2.15.0
 
 # Kernel y Jupyter
 ipykernel
@@ -22,3 +24,9 @@ bitsandbytes
 accelerate
 
 python-dotenv
+
+# Qlora
+
+peft
+datasets
+trl
