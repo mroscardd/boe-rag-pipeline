@@ -1,90 +1,67 @@
 # BOE RAG Pipeline ⚖️🤖
 
-**Un pipeline modular de Retrieval-Augmented Generation (RAG) especializado en la recuperación semántica de información jurídica del Boletín Oficial del Estado (BOE).**
+**Recuperación semántica de información jurídica del Boletín Oficial del Estado (BOE) 🇪🇸 mediante Retrieval-Augmented Generation (RAG).**
 
-BOE RAG Pipeline permite consultar información jurídica mediante búsqueda semántica, utilizando embeddings y una base de datos vectorial persistente para recuperar los fragmentos de texto más relevantes.
-
-El proyecto está diseñado para ser **modular, reproducible y portable**, facilitando la sincronización de los datos, la inicialización del sistema de recuperación y su ejecución en entornos locales.
+Pipeline modular que combina búsqueda semántica sobre **ChromaDB** con la generación de respuestas de **Llama 3.1 8B Instruct** afinado mediante **QLoRA** sobre un dataset de redacción jurídica. Diseñado para ser **reproducible y portable**, con sincronización de datos desde Hugging Face y recuperación desacoplada del LLM.
 
 ## ✨ Características principales
 
-- **Sincronización desde Hugging Face:** descarga y actualización de la base de datos vectorial y sus archivos asociados directamente desde el Hub.
-- **Procesamiento multiplataforma:** extracción de archivos comprimidos `.rar` mediante Python, utilizando `patool`, sin depender de herramientas externas como `unrar.exe` cuando el backend de extracción lo permite.
-- **Almacenamiento vectorial persistente:** integración con **ChromaDB** a través de `langchain-chroma`, permitiendo conservar y reutilizar las colecciones vectoriales.
-- **Recuperación semántica:** generación y comparación de embeddings para localizar fragmentos jurídicos relacionados con las consultas del usuario.
-- **Filtrado por relevancia:** configuración de `similarity_score_threshold` para descartar resultados que no superen un umbral mínimo de similitud y reducir el ruido en la recuperación.
-- **Aceleración por GPU:** compatibilidad con PyTorch y CUDA para aprovechar la capacidad de cálculo de las GPU NVIDIA durante la generación de embeddings.
+- 🔄 **Sincronización desde Hugging Face:** la base de datos vectorial y sus archivos se descargan y actualizan directamente desde el Hub, con extracción de `.rar` en Python vía `patool`.
+- 🗃️ **Almacenamiento vectorial persistente:** colecciones ChromaDB reutilizables a través de `langchain-chroma`.
+- 🔍 **Recuperación semántica filtrada:** embeddings de sentence-transformers y umbral de similitud (`similarity_score_threshold`) para descartar resultados irrelevantes.
+- ⚡ **Aceleración por GPU:** PyTorch + CUDA para la generación de embeddings y la inferencia del LLM en GPU NVIDIA, con soporte también en CPU.
 
 ## 🏗️ Arquitectura
 
-El pipeline sigue un flujo de trabajo dividido en varias etapas:
+1. **Sincronización** → descarga de los datos desde Hugging Face y extracción local.
+2. **Base vectorial** → conexión con la colección ChromaDB de fragmentos jurídicos.
+3. **Recuperación** → la consulta se convierte en embedding y se buscan los fragmentos más relevantes.
+4. **Filtrado** → se descartan resultados por debajo del umbral de similitud.
+5. **Generación** → el LLM (base + adaptador QLoRA) redacta la respuesta a partir del contexto recuperado.
 
-1. **Sincronización:** obtención de los datos y archivos necesarios desde Hugging Face.
-2. **Extracción y preparación:** descompresión y preparación de los datos para su procesamiento.
-3. **Inicialización vectorial:** carga y conexión con la base de datos ChromaDB.
-4. **Recuperación semántica:** transformación de consultas en embeddings y búsqueda de fragmentos relevantes.
-5. **Filtrado:** aplicación de un umbral de similitud para mejorar la calidad de los resultados recuperados.
+## 📓 Estructura del proyecto
+
+| Notebook | Descripción |
+|---|---|
+| `database.ipynb` | Construcción de la base de datos vectorial ChromaDB a partir de los documentos. |
+| `qlora.ipynb` | Afinado QLoRA (4-bit, NF4, bfloat16) de `Meta-Llama-3.1-8B-Instruct` con el dataset de redacción jurídica. |
+| `rag.ipynb` | Pipeline RAG completo: sincronización, recuperación y generación con el adaptador QLoRA. |
+| `testing.ipynb` | Evaluación de la calidad de la recuperación. |
+
+Otros directorios clave: `chroma_db_boe_completo/` (base vectorial persistente), `adaptador_qlora/` (adaptador entrenado con PEFT/TRL), `dataset_qlora/` (dataset de instrucciones) y `leyes_pdf/` (documentación legal de referencia).
 
 ## 🛠️ Requisitos
-
-### Requisitos previos
 
 | Componente | Versión / Requisito |
 |---|---|
 | Python | 3.12.x |
-| PyTorch | Compatible con el entorno CUDA o CPU |
-| CUDA | 12.1 (opcional, para GPU) |
+| PyTorch | 2.x, compatible con tu entorno CUDA o CPU |
+| CUDA | 12.x (opcional, para GPU) |
 | GPU | NVIDIA compatible (opcional) |
-
-**Nota:** la ejecución en CPU es posible, aunque el rendimiento dependerá del volumen de datos y del modelo de embeddings utilizado.
 
 ## 🚀 Instalación
 
-### 1. Clonar el repositorio
-
 ```bash
+# 1. Clonar el repositorio
 git clone https://github.com/mroscardd/boe-rag-pipeline.git
-
 cd boe-rag-pipeline
-```
 
-### 2. Crear un entorno virtual
-
-```bash
+# 2. Crear y activar el entorno virtual
 python -m venv .venv
-```
+.venv\Scripts\Activate.ps1        # Windows (PowerShell)
+# source .venv/bin/activate       # Linux / macOS
 
-Activar el entorno:
-
-**Windows (PowerShell):**
-
-```powershell
-.venv\Scripts\Activate.ps1
-```
-
-**Linux / macOS:**
-
-```bash
-source .venv/bin/activate
-```
-
-### 3. Instalar dependencias
-
-```bash
+# 3. Instalar dependencias
 pip install -r requirements.txt
 ```
 
-### 4. Configurar PyTorch y CUDA (opcional)
+> 💡 `requirements.txt` ya instala PyTorch configurado para CUDA. Si tu entorno usa otra versión de CUDA, instala la build correspondiente, por ejemplo para CUDA 12.1:
+>
+> ```bash
+> pip install torch --index-url https://download.pytorch.org/whl/cu121
+> ```
 
-Si dispones de una GPU NVIDIA, instala la versión de PyTorch compatible con tu entorno CUDA.
-
-Por ejemplo, para CUDA 12.1:
-
-```bash
-pip install torch --index-url https://download.pytorch.org/whl/cu121
-```
-
-Puedes comprobar la disponibilidad de CUDA con:
+Verifica la disponibilidad de CUDA:
 
 ```python
 import torch
@@ -95,22 +72,22 @@ print("CUDA disponible:", torch.cuda.is_available())
 
 ## 📖 Uso
 
-Una vez instalado el proyecto, podrás inicializar el pipeline para sincronizar los datos y preparar el sistema de recuperación.
+Los notebooks son los puntos de entrada del pipeline:
 
-Consulta la estructura del repositorio y los módulos correspondientes para conocer los puntos de entrada y la API del recuperador.
+1. **`database.ipynb`** — genera la base de datos vectorial desde los documentos del BOE.
+2. **`qlora.ipynb`** — entrena el adaptador QLoRA sobre el dataset de redacción jurídica.
+3. **`rag.ipynb`** — sincroniza la base vectorial desde Hugging Face, inicializa el recuperador y responde consultas jurídicas con el LLM afinado.
+4. **`testing.ipynb`** — evalúa la calidad de la recuperación semántica.
 
-## 🧰 Tecnologías utilizadas
+## 🧰 Tecnologías
 
-- **Python 3.12** — lenguaje principal.
-- **PyTorch** — procesamiento y aceleración por hardware.
-- **Hugging Face Hub** — distribución y sincronización de datos.
-- **ChromaDB** — almacenamiento y búsqueda vectorial.
-- **LangChain** — integración y abstracción del sistema de recuperación.
-- **patool** — gestión de archivos comprimidos.
+| Área | Herramientas |
+|---|---|
+| Lenguaje | Python 3.12 |
+| RAG y embeddings | LangChain, ChromaDB, Sentence Transformers |
+| LLM y afinado | PyTorch, Transformers, PEFT, TRL, bitsandbytes |
+| Distribución de datos | Hugging Face Hub, patool |
 
-## 🎯 Objetivo del proyecto
+## 🎯 Objetivo
 
-El objetivo es disponer de una infraestructura de recuperación semántica especializada en documentación jurídica española, que pueda utilizarse como componente de un sistema RAG más amplio.
-
-El pipeline separa la gestión de los datos y la recuperación de información de la fase de generación de respuestas, permitiendo integrar diferentes modelos de lenguaje (LLM) sin acoplar el sistema a uno concreto.
-
+Disponer de una infraestructura de recuperación semántica especializada en documentación jurídica española, reutilizable como componente de un sistema RAG más amplio. La gestión de datos y la recuperación están separadas de la generación de respuestas, de modo que el LLM puede sustituirse sin acoplar el sistema a un modelo concreto.
